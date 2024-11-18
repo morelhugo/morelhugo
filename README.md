@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi there!</h1>
 <p align='center'>
 I'm Hugo ⚡
 </p>
